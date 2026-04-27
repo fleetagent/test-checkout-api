@@ -1,4 +1,3 @@
-import { CreateOrderSchema } from "../routes/orders";
 
 // Re-export for testing (schema is inline in real code, simplified here)
 const schema = {
